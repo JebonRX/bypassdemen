@@ -192,23 +192,9 @@ linearjitp02-playback.astro.com.my
 linears-playback.astro.com.my
 vodejitp-asset-playback-b.astro.com.my
 
-www.loklok.com
+
 loklok.com
-app.loklok.com
-admin.loklok.com
-home.loklok.com
-ga-mobile-api.loklok.com
-h5.loklok.com
-test-pc.loklok.com
-mobile-api.loklok.site
 loklok.tv
-ali-cdn-play.loklok.tv
-ali-cdn-play-web.loklok.tv
-akm-cdn-play.loklok.tv
-ga-mobile-api.loklok.tv
-js1.loklok.tv
-h5.loklok.tv
-hw-cdn-play.loklok.tv
 loklok.video
 
 www.iq.com
