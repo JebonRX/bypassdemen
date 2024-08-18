@@ -226,8 +226,6 @@ mail.micaresvc.com
 www.micaresvc.com
 eclaims.micaresvc.com
 
-
-
 com.my
 com
 org
