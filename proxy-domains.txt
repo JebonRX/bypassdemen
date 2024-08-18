@@ -178,6 +178,8 @@ apix.hotstar.com
 bifrost-api.hotstar.com
 
 spotify.com
+spotify.net
+spotify.co
 open.spotify.com
 accounts.spotify.com
 apresolve.spotify.com
@@ -201,6 +203,10 @@ sg1.wzrkt.com
 linearjitp02-playback.astro.com.my
 linears-playback.astro.com.my
 vodejitp-asset-playback-b.astro.com.my
+
+iptv.com
+streamingiptv.com
+liveiptv.com
 
 www.loklok.com
 loklok.com
@@ -233,7 +239,26 @@ rewardpoint.viuapi.io
 static.viu.com
 s3-ap-southeast-1.amazonaws.com
 
+bilibili.com
+bilibili.tv
+
+ottnavigator.com
+
 fast.com
+
+lazada.com
+lazada.sg
+lazada.my
+lazada.co.id
+lazada.ph
+
+shopee.com
+shopee.sg
+shopee.my
+shopee.co.id
+shopee.ph
+
+setel.com
 
 smule.com
 api.snapkit.com
@@ -255,3 +280,29 @@ mail.micaresvc.com
 www.micaresvc.com
 eclaims.micaresvc.com
 
+
+pubgmobile.com
+mobilelegends.com
+mlbb.com
+callofduty.com
+codm.com
+roblox.com
+robloxlabs.com
+valorant.com
+riotgames.com
+leagueoflegends.com
+riotgames.com
+
+
+my
+com
+tv
+net
+org
+io
+com.my
+net.my
+org.my
+edu.my
+gov.my
+mil.my
