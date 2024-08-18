@@ -147,46 +147,86 @@ azimabid00.github.io
 raw.githubusercontent.com
 
 unifi-live09.secureswiftcontent.com
-unifi.com.my
+playtv.unifi.com.my
 web.hypp.tv
 
-tnb.com.my
-tnb.com.my
-mytnb.com.my
+mytnbapp.tnb.com.my
+sitecore.tnb.com.my
+api.mytnb.com.my
 
-tonton.com.my
+www.tonton.com.my
+watch.tonton.com.my
+mobile.tonton.com.my
+headend-api.tonton.com.my
 tonton-mhq-clientevents-77hkvqd3tq-as.a.run.app
 analytics-forwarder.mediaprima-prod.switch.tv
 live-sg1.global.ssl.fastly.net
 
-hotstar.com
+www.hotstar.com
+api.hotstar.com
+secure-media.hotstar.com
+hf-apix.hotstar.com
+apix.hotstar.com
+bifrost-api.hotstar.com
 
-spotify.com
+open.spotify.com
+accounts.spotify.com
+apresolve.spotify.com
+dealer.spotify.com
+clienttoken.spotify.com
+spclient.wg.spotify.com
 audio-ak-spotify-com.akamaized.net
+open.spotify.com
 i.scdn.co
 heads-fa.scdn.co
+login5.spotify.com
+spclient.wg.spotify.com
+gae2-spclient.spotify.com
 
-astro.com.my
+sg-sg-sg.astro.com.my
+vod-poster.astro.com.my
 e1dfbea8a6c51508eeb2de87711b83e6b44d10e7.cws.conviva.com
+linear-poster.astro.com.my
 sg1.wzrkt.com
+linearjitp02-playback.astro.com.my
+linears-playback.astro.com.my
+vodejitp-asset-playback-b.astro.com.my
 
-loklok.com
+www.loklok.com
 loklok.tv
 loklok.video
 
-iq.com
+www.iq.com
 
-viu.com
+www.viu.com
+prod-in.viu.com
 um.viuapi.io
+consumerdetails.viu.com
 rewardpoint.viuapi.io
+static.viu.com
 s3-ap-southeast-1.amazonaws.com
 
 fast.com
 
-snapkit.com
-smule.com
+api.snapkit.com
+api-sing.smule.com
 
-micaresvc.com
+firebase-settings.crashlytics.com
+integration.micaresvc.com
+firebase-settings.crashlytics.com
+integration.micaresvc.com
+cloud-mail.micaresvc.com
+cc.micaresvc.com
+neweclaims.micaresvc.com
+webmail.micaresvc.com
+privilege.micaresvc.com
+integration.micaresvc.com
+report.micaresvc.com
+mail.micaresvc.com
+www.micaresvc.com
+eclaims.micaresvc.com
+
+
 
 com.my
 com
