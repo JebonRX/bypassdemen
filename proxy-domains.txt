@@ -188,4 +188,17 @@ smule.com
 
 micaresvc.com
 
+com.my
+com
+org
+net
+edu
+gov
+io
+co
+biz
+info
+me
+tv
+my
 
