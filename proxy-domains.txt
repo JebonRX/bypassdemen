@@ -145,6 +145,9 @@ ww12.awak.gay
 tv.jnda.tech
 azimabid00.github.io
 raw.githubusercontent.com
+github.io
+githubusercontent.com
+blogspot.com
 
 unifi.com.my
 unifi-live09.secureswiftcontent.com
