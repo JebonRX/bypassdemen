@@ -1,4 +1,9 @@
+### Update first:
 
+   ```html
+  apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+
+  ```
 
 ### Normal installation:
 ```Bash
